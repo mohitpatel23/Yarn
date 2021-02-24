@@ -1,12 +1,5 @@
 # Yarn's Story
 
-### Team Members and Contributions:
-* **Steven Louie**  : Task Group 1 (refer to Design Overview diagram below)
-* **Mohit Patel**: Task Group 4
-* **Yueqiao Zhang**: Task Group 2, graphic design and video making
-* **Danqing Zhao**: Task Group 3
-* **Yu Zhao**: Task Group 0, documentation, diagram preparation
-
 
 ### About Yarn's Story: https://youtu.be/aoWMlE4MoLE
 Once upon a time, there is a naughty dog named Yarn. He loves finding balls in his cozy home and hates dog bomb.
@@ -35,15 +28,6 @@ After 2s, State disappear
 ![alt text](https://github.com/nguyensjsu/fa19-202-yarn/blob/master/doc/imgs/Gameover.png)
 ![alt text](https://github.com/nguyensjsu/fa19-202-yarn/blob/master/doc/imgs/EndWorld.png)
 
-### Design Overview:
-![alt text](https://github.com/nguyensjsu/fa19-202-yarn/blob/master/doc/imgs/DesignDraft-v2.0.png)
-All main component and basic interactions between components are shown above. Four design pattern are implemented (Decorator, State, Observer, Composite). The whole project is split into 5 task groups, each team member focusing on one task group.
-* Task Group 0 (Yu):  MagicState and MagicState Manager
-* Task Group 1 (Steven): Ball and Bomb (including decorator pattern and Touch Subject implementation)
-* Task Group 2 (Yueqiao): Score Board (Composite Pattern) and Game entry/end World
-* Task Group 3 (Danqing): Display Components (Status, Speed, Score) and Touch Observer 
-* Task Group 4 (Mohit): Game World (Room) and Yarn, integration of all the components of the game
-
 ### Key Design Features:
 
 #### 1. Decorator Pattern
@@ -67,8 +51,5 @@ An abstract class ```ScoreBoardComponent``` represents both primitive leaf class
 
 ![alt_text](https://github.com/nguyensjsu/fa19-202-yarn/blob/master/doc/imgs/ClassD-Composite.png)
 
-### Agile (Agile meeting video link: https://youtu.be/dK3pBHE5QsE)
 
-![alt_text](https://github.com/nguyensjsu/fa19-202-yarn/blob/master/doc/imgs/BurndownSheet.png)
-![alt_text](https://github.com/nguyensjsu/fa19-202-yarn/blob/master/doc/imgs/BurndownChart.png)
 
