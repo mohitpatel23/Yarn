@@ -51,5 +51,8 @@ An abstract class ```ScoreBoardComponent``` represents both primitive leaf class
 
 ![alt_text](https://github.com/nguyensjsu/fa19-202-yarn/blob/master/doc/imgs/ClassD-Composite.png)
 
+### Contributors:
+Mohit, Steven, Zoe, Janet, Dan
+
 
 
